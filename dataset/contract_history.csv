@@ -1,0 +1,2 @@
+tx_hash,block,from_address,to_address,value,gas_limit,gas_used,gas_ratio,nonce,input_length,status,label
+d6888f4361f0084f27b87db919d6ce9f812629334d4a6426d663b3c3bc5d87f7,10265099,0xdAa02d3e474fEED40D79Aa2690BFa53d3A46F51E,0xcE4a34A5309D32946d3a0e7eefE22A0450eb221D,0,30502,27693,0.907907678185037,16,0,1,0
