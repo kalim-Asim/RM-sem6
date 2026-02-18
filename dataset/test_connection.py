@@ -2,7 +2,7 @@ from web3 import Web3
 import time
 
 # PASTE YOUR FULL RPC URL HERE
-RPC_URL = "https://ethereum-sepolia.core.chainstack.com/e79eef8ce296c3118a329cfd17801ce9" 
+RPC_URL = "https://ethereum-sepolia.core.chainstack.com/e79eef8ce296c3118a329cfd17xxxxxx" 
 
 print("1. Attempting to connect to:", RPC_URL)
 
