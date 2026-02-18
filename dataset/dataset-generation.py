@@ -4,8 +4,8 @@ import time
 import sys
 
 # --- CONFIGURATION ---
-RPC_URL = "https://ethereum-sepolia.core.chainstack.com/3947f6864fca9eb65d71d4ff33e45528" 
-CONTRACT_ADDRESS = "0xcE4a34A5309D32946d3a0e7eefE22A0450eb221D" 
+RPC_URL = "https://ethereum-sepolia.core.chainstack.com/3947f6864fca9eb65d71d4ff33exxxxx" # rpc url for sepolia 
+CONTRACT_ADDRESS = "0xcE4a34A5309D32946d3a0e7eefE22A0450xxxxx" # Metamask public key 
 # ---------------------
 
 def fetch_contract_history():
