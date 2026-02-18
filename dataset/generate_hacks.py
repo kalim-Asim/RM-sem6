@@ -5,9 +5,9 @@ import sys
 import random 
 
 # --- CONFIGURATION ---
-RPC_URL = "https://ethereum-sepolia.core.chainstack.com/3947f6864fca9eb65d71d4ff33e45528" 
-PRIVATE_KEY = "a5e59cb365a3324dd115640f1aaa6b13f0d5f503a530230e70115617a6e3c8a6" # The "Attacker's" Key
-BRIDGE_ADDRESS = "0xF9A35F83f5AF77bDB7319529822d2c14B72377FF" # address of the VulnerableBridge we deployed
+RPC_URL = "https://ethereum-sepolia.core.chainstack.com/3947f6864fca9eb65d71d4ff33xxxxxxx" # rpc url sepolia
+PRIVATE_KEY = "a5e59cb365a3324dd115640f1aaa6b13f0d5f503a5302xxxxxxxxxxxxxxxxxxxxx" # The "Attacker's" Key - Metamask private key
+BRIDGE_ADDRESS = "0xF9A35F83f5AF77bDB7319529822d2c14xxxxxxx" # address of the VulnerableBridge we deployed
 # ---------------------
 
 # 1. The ABI (Standard definition for the VulnerableBridge)
